@@ -1,2 +1,4 @@
 source/
 tests/
+rsa.c
+factors.c
