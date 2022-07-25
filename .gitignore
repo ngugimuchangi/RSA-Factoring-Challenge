@@ -1,5 +1,4 @@
 source/
 tests/
-__pycache__/
 rsa.c
 factors.c
